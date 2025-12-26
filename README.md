@@ -1,130 +1,150 @@
 <div align="center">
 
-# Merhaba, Ben Furkan Bayhan
+<h1>Furkan Bayhan</h1>
 
-### Full Stack Developer · SaaS · Multi-Tenant · AI Products
+<p>
+Full Stack Developer focused on building <b>SaaS platforms</b>, 
+<b>multi-tenant systems</b>, and <b>AI-powered products</b>.
+</p>
 
-Building **production-ready SaaS platforms**, **multi-tenant systems**, and **AI-powered products** with a strong focus on **premium UI/UX** and **scalability**.
-
-[![GitHub followers](https://img.shields.io/github/followers/BayhanR?style=social)](https://github.com/BayhanR)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bayhan1606)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### BPMS – Project Management SaaS
-**Ultra-premium, subscription-based multi-tenant SaaS**
-
-- Workspace & RBAC based project management
-- Kanban boards, recurring tasks, calendar integrations
-- Iyzico subscription & billing system
-- Glassmorphism-focused premium UI
-
-🔗 https://bpms.bayhan.tech  
-🧠 Next.js · TypeScript · Prisma · Tailwind · NextAuth
-
----
-
-### BayhanTech – Multi-Tenant Portal System
-**Company-based dashboards & content management platform**
-
-- Company-specific dashboards
-- Supabase RLS based data isolation
-- Media-heavy portals (real estate, product galleries)
-
-🔗 https://bayhan.tech  
-🧠 Next.js · Supabase · PostgreSQL · Prisma
-
----
-
-### SummarAI – AI News Summarization Platform
-**AI-powered automated news analysis & summarization**
-
-- Real-time content processing
-- Short-form summaries for fast consumption
-- Clean, distraction-free reading experience
-
-🔗 https://summar-ai-rho.vercel.app  
-🧠 Next.js · TypeScript · LLM-based summarization
-
----
-
-## 🧩 Other Projects
-
-| Project | Description | Tech |
-|------|------------|------|
-| SaaS Auth Boilerplate | Multi-tenant auth & RBAC starter | Next.js, NextAuth, Prisma |
-| Admin Dashboard | Role-based admin panel | Next.js, Tailwind |
-| E-Commerce CMS | Product & order management | Next.js, PostgreSQL |
-| Landing Builder | Drag & drop landing pages | React |
-| Realtime Chat | WebSocket based messaging app | Node.js |
-| API Starter Kit | Clean REST API boilerplate | Node.js, Prisma |
-| Subscription System | Payment & plan management | Next.js |
-| File Manager | S3-style storage interface | Supabase |
-| Blog Platform | MDX-based blogging system | Next.js, MDX |
-
----
-
-## 🧠 What I Actually Build
-- Production-ready SaaS products
-- Multi-tenant architectures
-- Subscription & billing systems
-- AI-powered content platforms
-- Premium UI / UX focused applications
-- Type-safe, scalable backends
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat&logo=supabase&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BayhanR&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BayhanR&layout=compact&hide_border=true)
+<p>
+<a href="https://github.com/BayhanR">GitHub</a> ·
+<a href="https://linkedin.com/in/bayhan1606">LinkedIn</a> ·
+<a href="https://bayhan.tech">Portfolio</a>
+</p>
 
 </div>
 
----
-
-## 📬 Contact
+<hr />
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@bayhan.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bayhan1606)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bayhan.tech)
+<h2>Featured Products</h2>
 
 </div>
 
----
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<h3>BPMS</h3>
+<p>
+Premium, subscription-based project management SaaS designed for 
+scalable teams and modern workflows.
+</p>
+
+<p>
+<a href="https://bpms.bayhan.tech">Live</a> · 
+<a href="https://github.com/BayhanR">Repo</a>
+</p>
+
+<p>
+Next.js · TypeScript · Prisma · Tailwind · NextAuth
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>BayhanTech</h3>
+<p>
+Multi-tenant portal system with company-specific dashboards and 
+secure data isolation.
+</p>
+
+<p>
+<a href="https://bayhan.tech">Live</a> · 
+<a href="https://github.com/BayhanR">Repo</a>
+</p>
+
+<p>
+Next.js · Supabase · PostgreSQL
+</p>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<table align="center">
+<tr>
+<td width="100%" valign="top">
+
+<h3>SummarAI</h3>
+<p>
+AI-powered news summarization platform that transforms long-form 
+content into concise, readable insights.
+</p>
+
+<p>
+<a href="https://summar-ai-rho.vercel.app">Live</a>
+</p>
+
+<p>
+Next.js · TypeScript · LLM-based summarization
+</p>
+
+</td>
+</tr>
+</table>
+
+<hr />
 
 <div align="center">
 
-⭐ If you like my work, feel free to star the projects.
+<h2>Other Projects</h2>
+
+</div>
+
+<table align="center">
+<tr>
+<td>SaaS Auth Boilerplate</td>
+<td>Multi-tenant authentication & RBAC</td>
+<td>Next.js · Prisma</td>
+</tr>
+<tr>
+<td>Admin Dashboard</td>
+<td>Role-based management panel</td>
+<td>Next.js · Tailwind</td>
+</tr>
+<tr>
+<td>E-Commerce CMS</td>
+<td>Product and order management</td>
+<td>Next.js · PostgreSQL</td>
+</tr>
+<tr>
+<td>Realtime Chat</td>
+<td>WebSocket based messaging</td>
+<td>Node.js</td>
+</tr>
+<tr>
+<td>File Manager</td>
+<td>S3-style storage interface</td>
+<td>Supabase</td>
+</tr>
+</table>
+
+<hr />
+
+<div align="center">
+
+<h2>Technical Focus</h2>
+
+<p>
+SaaS Architecture · Multi-Tenancy · Subscription Systems · 
+AI Content Platforms · Premium UI/UX · Type-Safe Backends
+</p>
+
+</div>
+
+<hr />
+
+<div align="center">
+
+<h2>GitHub Activity</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=BayhanR&show_icons=true&hide_border=true" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayhanR&layout=compact&hide_border=true" />
 
 </div>
