@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | Next.js & TypeScript Enthusiast
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/BayhanR)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
