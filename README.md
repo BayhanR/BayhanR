@@ -1,10 +1,14 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="40" />
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" width="40" />
+
 <h1>Furkan Bayhan</h1>
 
 <p>
-Full Stack Developer focused on building <b>SaaS platforms</b>, 
-<b>multi-tenant systems</b>, and <b>AI-powered products</b>.
+Full Stack Developer building <b>SaaS platforms</b>, 
+<b>multi-tenant systems</b>, and <b>AI-powered products</b>
+with a strong focus on scalability and clean architecture.
 </p>
 
 <p>
@@ -18,9 +22,7 @@ Full Stack Developer focused on building <b>SaaS platforms</b>,
 <hr />
 
 <div align="center">
-
-<h2>Featured Products</h2>
-
+<h2>Featured Projects</h2>
 </div>
 
 <table align="center">
@@ -28,37 +30,21 @@ Full Stack Developer focused on building <b>SaaS platforms</b>,
 <td width="50%" valign="top">
 
 <h3>BPMS</h3>
+<p>Subscription-based project management SaaS.</p>
 <p>
-Premium, subscription-based project management SaaS designed for 
-scalable teams and modern workflows.
+<a href="https://github.com/BayhanR/BPMS">Repository</a>
 </p>
-
-<p>
-<a href="https://bpms.bayhan.tech">Live</a> · 
-<a href="https://github.com/BayhanR">Repo</a>
-</p>
-
-<p>
-Next.js · TypeScript · Prisma · Tailwind · NextAuth
-</p>
+<p>Next.js · TypeScript · Prisma</p>
 
 </td>
 <td width="50%" valign="top">
 
 <h3>BayhanTech</h3>
+<p>Multi-tenant portal system with company-based dashboards.</p>
 <p>
-Multi-tenant portal system with company-specific dashboards and 
-secure data isolation.
+<a href="https://github.com/BayhanR/BayhanTech">Repository</a>
 </p>
-
-<p>
-<a href="https://bayhan.tech">Live</a> · 
-<a href="https://github.com/BayhanR">Repo</a>
-</p>
-
-<p>
-Next.js · Supabase · PostgreSQL
-</p>
+<p>Next.js · Supabase · PostgreSQL</p>
 
 </td>
 </tr>
@@ -68,21 +54,24 @@ Next.js · Supabase · PostgreSQL
 
 <table align="center">
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 <h3>SummarAI</h3>
+<p>AI-powered news summarization platform.</p>
 <p>
-AI-powered news summarization platform that transforms long-form 
-content into concise, readable insights.
+<a href="https://github.com/BayhanR/SummarAI">Repository</a>
 </p>
+<p>Next.js · TypeScript · AI</p>
 
-<p>
-<a href="https://summar-ai-rho.vercel.app">Live</a>
-</p>
+</td>
+<td width="50%" valign="top">
 
+<h3>egepetmezarligi</h3>
+<p>Real-world business website & management system.</p>
 <p>
-Next.js · TypeScript · LLM-based summarization
+<a href="https://github.com/BayhanR/egepetmezarligi">Repository</a>
 </p>
+<p>Next.js · Web Platform</p>
 
 </td>
 </tr>
@@ -91,57 +80,24 @@ Next.js · TypeScript · LLM-based summarization
 <hr />
 
 <div align="center">
-
-<h2>Other Projects</h2>
-
+<h2>Other Notable Projects</h2>
 </div>
 
 <table align="center">
-<tr>
-<td>SaaS Auth Boilerplate</td>
-<td>Multi-tenant authentication & RBAC</td>
-<td>Next.js · Prisma</td>
-</tr>
-<tr>
-<td>Admin Dashboard</td>
-<td>Role-based management panel</td>
-<td>Next.js · Tailwind</td>
-</tr>
-<tr>
-<td>E-Commerce CMS</td>
-<td>Product and order management</td>
-<td>Next.js · PostgreSQL</td>
-</tr>
-<tr>
-<td>Realtime Chat</td>
-<td>WebSocket based messaging</td>
-<td>Node.js</td>
-</tr>
-<tr>
-<td>File Manager</td>
-<td>S3-style storage interface</td>
-<td>Supabase</td>
-</tr>
+<tr><td><a href="https://github.com/BayhanR/Perdi">Perdi</a></td><td>Sector-specific web application</td></tr>
+<tr><td><a href="https://github.com/BayhanR/Brew">Brew</a></td><td>Business-focused portal system</td></tr>
+<tr><td><a href="https://github.com/BayhanR/Bayhan-Auth-Root-with-Prisma">Auth Root</a></td><td>Authentication & RBAC foundation</td></tr>
+<tr><td><a href="https://github.com/BayhanR/CT_ETA">CT_ETA</a></td><td>Data processing & estimation logic</td></tr>
+<tr><td><a href="https://github.com/BayhanR/imageRegulator">imageRegulator</a></td><td>Image processing utilities</td></tr>
+<tr><td><a href="https://github.com/BayhanR/sentimentAnalysis">sentimentAnalysis</a></td><td>Text sentiment analysis</td></tr>
+<tr><td><a href="https://github.com/BayhanR/Sociel-Media-Filter-with-opencv">OpenCV Filter</a></td><td>Computer vision filters</td></tr>
+<tr><td><a href="https://github.com/BayhanR/TextCaptureV2">TextCaptureV2</a></td><td>OCR & text extraction</td></tr>
 </table>
 
 <hr />
 
 <div align="center">
-
-<h2>Technical Focus</h2>
-
-<p>
-SaaS Architecture · Multi-Tenancy · Subscription Systems · 
-AI Content Platforms · Premium UI/UX · Type-Safe Backends
-</p>
-
-</div>
-
-<hr />
-
-<div align="center">
-
-<h2>GitHub Activity</h2>
+<h2>GitHub Stats</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=BayhanR&show_icons=true&hide_border=true" />
 <br />
